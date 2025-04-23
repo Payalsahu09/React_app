@@ -1,0 +1,46 @@
+.App {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  input {
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+  }
+  
+  button {
+    padding: 10px;
+    margin: 5px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px;
+    font-size: 18px;
+  }
+  
+  li.completed {
+    text-decoration: line-through;
+    color: gray;
+  }
+  
+  span {
+    cursor: pointer;
+  }
+  
+  button {
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: darkred;
+  }
+  
