@@ -24,7 +24,7 @@ Clipboard API: For copy-to-clipboard functionality
 
 🚀 Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/your-username/react-password-generator.git
+git clone https://github.com/Payalsahu09/React_app
 cd react-password-generator
 
 2️⃣ Install dependencies
